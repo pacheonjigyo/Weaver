@@ -11,6 +11,9 @@
 
 # 기술 스택
 
+- CSS
+- TypeScript
 - React
 - MobX
-- 
+- Ant Design
+- Apexchart
